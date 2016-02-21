@@ -40,7 +40,7 @@ $ python PttAuto.py
 
 執行過程
 
-![alt tag](http://i.imgur.com/Y9J2Ou0.jpg)
+![alt tag](http://i.imgur.com/kGx379D.jpg)
 
 
 # License
