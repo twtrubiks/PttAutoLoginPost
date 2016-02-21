@@ -17,7 +17,7 @@ password = 'Your PTT Password'
 $ python PttAuto.py 
 
 ```
-* [Demo Video]() - Linux 
+* [Demo Video](https://youtu.be/FkdR6C-a9Nw) - Linux 
 
 
 ###執行環境
