@@ -1,0 +1,8 @@
+# ===== Python 依賴套件 =====
+# SSH 連線庫
+asyncssh>=2.0.0
+
+# asyncssh 的依賴套件（通常會自動安裝）
+# cryptography>=3.0.0
+# typing_extensions>=4.0.0
+
